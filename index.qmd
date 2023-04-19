@@ -1,0 +1,42 @@
+---
+title: "Functional Programming: Cats and Dogs"
+author: "Your Name"
+date: "Due: May 1, 2023"
+output: html_document
+number-sections: true
+number-depth: 2
+---
+
+# Introduction
+
+One of the most common places where we use functional programming is with hierarchically structured data; commonly, we get data like this from the internet in JavaScript Object Notation (JSON) format. 
+
+I've used the Petfinder API to get data about 20 dogs and 20 cats that up for adoption, good with kids, and near Lincoln, NE. 
+If you want to see how I did that, you can look at [get_data.R](get_data.R) - to run the code, you'll need to register for your own Petfinder API key.
+
+Use functional programming techniques (map, apply, `purrr`, lambda functions, etc.) to accomplish the following tasks. 
+
+1. Decide whether to use R or Python for dogs or cats. You must use one language for one animal and the other language for the other animal.
+
+2. Read in the JSON file.
+
+3. Assemble a data frame with the animal's name, age, sex, breed(s), and shelter ID.
+
+4. Add a column to your data frame with a list of picture links? (Hint: use list columns)
+
+5. (Bonus) Find some way to generate a collage or gif of pictures of the animals up for adoption right now.
+
+
+## R - Animal (change this to match)
+
+```{r}
+
+```
+
+
+## Python - Animal (change this to match)
+
+```{r}
+
+```
+
