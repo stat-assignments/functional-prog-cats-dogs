@@ -39,3 +39,6 @@ vignettes/*.pdf
 .Renviron
 
 petfinder-api-key.R
+index-key.qmd
+index.html
+index_files/*
