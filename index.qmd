@@ -16,17 +16,18 @@ If you want to see how I did that, you can look at [get_data.R](get_data.R) - to
 
 Use functional programming techniques (map, apply, `purrr`, lambda functions, etc.) to accomplish the following tasks. 
 
-1. Decide whether to use R or Python for dogs or cats. You must use one language for one animal and the other language for the other animal.
+0. Decide whether to use R or Python for dogs or cats. You must use one language for one animal and the other language for the other animal. Fill in the markdown headers below accordingly.
 
-2. Read in the JSON file.
+1. Read in the JSON file.
 
-3. Assemble a data frame with the animal's name, age, sex, breed(s), and shelter ID.
+2. Assemble a data frame with the animal's name, age, sex, breed(s), and organization ID.
 
-4. Add a column to your data frame with a list of picture links? (Hint: use list columns)
+3. Add a column to your data frame with a list of picture links    
+(Hint: use list columns)
 
-5. (Bonus) Find some way to generate a collage or gif of pictures of the animals up for adoption right now.
+4. (Bonus) Find some way to generate a collage or gif of pictures of the animals up for adoption right now.
 
-
+# Solutions
 ## R - Animal (change this to match)
 
 ```{r}
@@ -36,7 +37,7 @@ Use functional programming techniques (map, apply, `purrr`, lambda functions, et
 
 ## Python - Animal (change this to match)
 
-```{r}
+```{python}
 
 ```
 
