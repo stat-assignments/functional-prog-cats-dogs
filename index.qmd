@@ -1,7 +1,7 @@
 ---
 title: "Functional Programming: Cats and Dogs"
 author: "Your Name"
-date: "Due: May 1, 2023"
+date: "Due: May 5, 2023"
 output: html_document
 number-sections: true
 number-depth: 2
